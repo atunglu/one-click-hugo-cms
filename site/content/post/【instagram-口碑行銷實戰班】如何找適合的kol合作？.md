@@ -28,12 +28,6 @@ image: img/neon-green-and-white-simple-gradient-business-review-presentation.png
 2. 【數據】：找KOL、微網紅合作，要看什麼數據？
 3. 【組合】：想想你的行銷目標，決定你的人選組合。
 
-   <br>
-
-   <br>
-
-
-
 ## 1. 【樣貌】微網紅、KOL這麼多，要怎麼挑？
 
 和所有行銷活動一樣，開始你的 Instagram 網紅口碑行銷前，也一定要先問問自己：
